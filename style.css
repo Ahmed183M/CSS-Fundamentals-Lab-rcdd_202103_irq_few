@@ -12,3 +12,9 @@ a {
   padding: 0px 10px 0px 10px;
   background-color: lightgrey;
 }
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
